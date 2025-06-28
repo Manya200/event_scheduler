@@ -1,0 +1,49 @@
+[
+    {
+        "id": "66901311-7862-461f-9462-517a80f4e4b8",
+        "title": "Demo Meeting",
+        "description": "Client follow-up",
+        "start_time": "2025-06-28T07:14:11",
+        "end_time": "2025-06-28T07:44:11"
+    },
+    {
+        "id": "b5bf8970-5f7d-4e20-8371-84f06602773e",
+        "title": "Updated Demo Meeting",
+        "description": "Visit Dr. Sharma",
+        "start_time": "2025-06-28T14:00:00",
+        "end_time": "2025-06-28T15:00:00"
+    },
+    {
+        "id": "d1bc4976-2813-4615-a195-3bdc51bae7de",
+        "title": "Doctor Appointment",
+        "description": "Visit Dr. Varma",
+        "start_time": "2025-06-28T14:00:00",
+        "end_time": "2025-06-28T15:00:00"
+    },
+    {
+        "id": "5d7b333f-8b56-479e-adda-c561e6ead3e7",
+        "title": "Daily Workout",
+        "description": "30 mins home exercise",
+        "start_time": "2025-06-28T07:00:00",
+        "end_time": "2025-06-28T07:30:00",
+        "recurrence": "daily"
+    },
+    {
+        "id": "5293b44b-a90a-41cd-9426-bfc1ce2101c7",
+        "title": "Pytest Event",
+        "description": "Testing event creation",
+        "start_time": "2025-06-28T16:00:00",
+        "end_time": "2025-06-28T17:00:00",
+        "recurrence": "none",
+        "email": ""
+    },
+    {
+        "id": "e53170db-65ce-4cbe-abb5-b9563ce68d6f",
+        "title": "Updated Title",
+        "description": "Will change title",
+        "start_time": "2025-06-28T17:00:00",
+        "end_time": "2025-06-28T18:00:00",
+        "recurrence": "none",
+        "email": ""
+    }
+]
